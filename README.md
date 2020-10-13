@@ -1,4 +1,6 @@
 # Detect-Shapes-Using-OpenCV
+Detect shapes such as `triangle` , `square` , `rectangle` , `pentagon` , `hexagon` , `circle` .
+
 `numpy` , `matplotlib` and `cv2` are required.
 
 Change the path of image accordingly.
